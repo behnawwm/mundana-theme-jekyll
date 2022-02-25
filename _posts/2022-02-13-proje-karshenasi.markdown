@@ -6,7 +6,7 @@ title:  "همایش پروژه کارشناسی"
 categories: [ Jekyll ]
 image: assets/images/bitalk_karshenasi.jpg
 ---
-<dev>
+<div dir = "rtl">
 دوستانِ جان سلام 👋
 
 بیتاک بعد یه استراحت کوچولو دوباره برگشت 😍
@@ -42,4 +42,4 @@ image: assets/images/bitalk_karshenasi.jpg
 
 [لینک ضبط‌شده‌ی همایش]: http://meeting-2.yazd.ac.ir/pav81xd6ciyn/?OWASP_CSRFTOKEN=70463b8076b5a67223f8506af64568fb47c09a09c37bf3bdd43c13052d22bf57
   
-  </dev>
+  </div>
